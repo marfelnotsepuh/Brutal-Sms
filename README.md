@@ -9,7 +9,7 @@ Perfect Tools spam 24 jam non stop
   pkg install nano
   pkg install git
   pkg install python
-  git clone https://github.com/AmmarrBN/Brutal-Sms
+  git clone https://github.com/marfelnotsepuh/Brutal-Sms
   cd Brutal-Sms
   bash install.sh
   python run.py
@@ -31,10 +31,10 @@ Perfect Tools spam 24 jam non stop
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **24 Jam non stop** |[✔️](https://github.com/AmmarrBN) |
-| **Brutal Spam** |[✔️](https://github.com/AmmarrBN) |
-| **Simple** |[✔️](https://github.com/AmmarrBN) |
-| **No Encrypt** |[✔️](https://github.com/AmmarrBN) |
+| **24 Jam non stop** |[✔️](https://github.com/marfelnotsepuh) |
+| **Brutal Spam** |[✔️](https://github.com/marfelnotsepuh) |
+| **Simple** |[✔️](https://github.com/marfelnotsepuh) |
+| **No Encrypt** |[✔️](https://github.com/marfelnotsepuh) |
 | **Subscribe** |[Here](https://youtube.com/channel/UCyyIDnXYJlRI_-2pAQqKr0g) |
 ---------
 
